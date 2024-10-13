@@ -1,4 +1,4 @@
-#include<SoftwareSerial.h
+#include<SoftwareSerial.h>
 
 int sensorPin = A0; // input  LDR
 
